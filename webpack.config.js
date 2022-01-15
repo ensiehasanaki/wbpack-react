@@ -10,7 +10,7 @@ module.exports = {
     target: "node",
     devServer: {
         port: "3000",
-        contentBase: ["./piblic"],
+        contentBase: ["./public"],
         open: true,
     },
     resolve: {
